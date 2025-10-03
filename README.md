@@ -1,6 +1,6 @@
 🎮 Desafio TicTacToe
 
-Imagens das telas em funcionamento estão em: Desafio_TicTacToe\Desafio_TicTacToe\telas
+Imagens das telas em funcionamento estão na pasta (telas)
 
 Projeto completo Front-end + Back-end, desenvolvido com React.js, .NET e PostgreSQL (via Entity Framework Core).
 O projeto foi estruturado seguindo os princípios de S.O.L.I.D e Clean Code, garantindo boa organização e manutenibilidade.
